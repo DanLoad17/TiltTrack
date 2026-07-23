@@ -1,0 +1,1 @@
+Update symbol J2 from 'Connector:Conn_01x10_Pin' to 'Connector:Conn_01x10_Pin': OK
